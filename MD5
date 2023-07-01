@@ -1,11 +1,11 @@
-e51bc7827cdb7dabb797bb85bf4d0cdb *DESCRIPTION
+076c4ff564dd9ce2fb3d53096ad60257 *DESCRIPTION
 bee4c82f51e9bdbcd31dae1eff1dbaf6 *NAMESPACE
 2d8c4e625999a21c72c689d6a66aaeca *R/data.R
 072e770a6e9965db2bff7391581abc47 *R/dwp.R
-af4dae4724a25a66f5535336c6421ce6 *R/fun.R
+531bbe6aa12124efbd66a193e0e8aa41 *R/fun.R
 d488074a4a59037344cf7505e93a43ec *R/fun_M.R
 d5b5a0562269486731e385c3b8ecd171 *R/utilities.R
-cbe6644270c4d1eaf059aadbf9587662 *README.md
+0467757f473a465d42acdbc0c61c77ae *README.md
 cb3c67ef65d1384ec0ca09015e31360b *data/alt_names.rda
 740063cb4060540bf8a175f28a5070a6 *data/carcass_polygon.rda
 1e85f31fe01f286c14437772af837ef0 *data/carcass_simple.rda
